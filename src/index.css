@@ -1,0 +1,26 @@
+@font-face {
+  font-family:"Motiva Sans";
+  src: url("./fonts/MotivaSans-Regular_woff.woff") format("woff");
+}
+html, body {
+  touch-action: pan-y;
+  overflow-x: hidden;
+  background-image: url("https://store.cloudflare.steamstatic.com/public/images/v6/colored_body_top.png");
+  background-size: cover;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  
+  background-color: #0f1317;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
