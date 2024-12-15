@@ -14,7 +14,7 @@
         "title": "Counter-Strike: Source",
         "desc": "Counter-Strike: Source сочетает в себе отмеченный наградами командный экшен Counter-Strike с передовой технологией Source™.",
         "bigdesc": "НОВАЯ ВЕРСИЯ СЕТЕВОГО ШУТЕРА НОМЕР ОДИН В МИРЕ\nИгра Counter-Strike: Source сочетает в себе триумфальную командную слаженность Counter-Strike с передовой технологией Source™. Обладающий соответствующей последним достижениям технической мысли графикой, полностью обновленным звуком и реальной физикой, Counter-Strike: Source просто должен занять почетное место в коллекции каждого поклонника жанра экшен.",
-        "price": "18",
+        "price": "18.1",
         "genre": "Шутеры",
         "info": {
             "date": "01/10/2004",
@@ -129,6 +129,90 @@
     },
     {
         "images": {
+            "smallimg": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1733992685",
+
+            "libimg": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1363080/library_600x900.jpg?t=1733992685",
+            "media": [
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/ss_00f97a49793b937f462d6fc9fdb3758ced29733a.600x338.jpg?t=1733992685",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/ss_2cb6e116732d309495383a6ff3397e6d19d1d253.600x338.jpg?t=1733992685",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/ss_fa0314fc9bbbbf4478262963b2d906140bdacbfd.600x338.jpg?t=1733992685",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/ss_32b0e6abcb9e5f57e65f328f5a9dd239aec91fde.600x338.jpg?t=1733992685",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/ss_6d314cbcffd478252cd375673c40803c60fd284b.600x338.jpg?t=1733992685"
+            ]
+        },
+        "title": "Manor Lords",
+        "desc": "Manor Lords — средневековая градостроительная стратегия с масштабными битвами и развитыми системами экономики и общественной жизни. Управляйте землями в мире, где меняется не только погода, но и сезоны, а города растут и приходят в упадок.",
+        "bigdesc": "Manor Lords — это стратегия, в которой каждый сможет почувствовать себя настоящим средневековым лордом. Развивайте свою стартовую деревню и превратите ее в большой шумный город, управляйте ресурсами и производственными цепочкам, захватывайте новые земли.",
+        "price": "39",
+        "genre": "РПГ",
+        "info": {
+            "date": "26/04/2024",
+            "rating": "91",
+            "developer": "Slavic Magic",
+            "publisher": "Hooded Horse"
+        },
+        "req": {
+            "min": {
+                "os": "Windows 10",
+                "cpu": "Intel® Core™ i5-4670 (quad-core)",
+                "ram": "8 ГБ",
+                "gpu":"NVIDIA® GeForce® GTX 1050 (2 GB)",
+                "space": "15 ГБ"
+            },
+            "rec": {
+                "os": "Windows 10",
+                "cpu": "Intel® Core™ i5-7600 (quad-core)",
+                "ram": "12 ГБ",
+                "gpu":"NVIDIA® GeForce® GTX 1060 (6 GB)",
+                "space": "15 ГБ"
+            }
+        },
+        "key": "GAME-2024-ACTV-KEY1"
+
+    },
+    {
+        "images": {
+            "smallimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/header.jpg?t=1651570301",
+            "libimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/library_600x900.jpg?t=1651570301",
+            "media": [
+                "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/ss_cc532907a14b12117825c609b9c941768ce87e51.600x338.jpg?t=1651570301",
+                "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/ss_b97afb7a10ad6455c01d0e2a191e105007cf7504.600x338.jpg?t=1651570301",
+                "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/ss_131963607a54afaf64688397d9742af37149148d.600x338.jpg?t=1651570301",
+                "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/ss_276544bf9b71fe701254f1d065e97c0be74f65e2.600x338.jpg?t=1651570301",
+                "https://cdn.cloudflare.steamstatic.com/steam/apps/244210/ss_6c771fd2bff6a09d39541d0aee04a7f663927e0f.600x338.jpg?t=1651570301"
+            ]
+        },
+        "title": "Assetto Corsa",
+        "desc": "Assetto Corsa — это реалистичный симулятор гонок, разработанный с акцентом на физику и точность управления. Игра предлагает большой выбор автомобилей и трасс.",
+        "bigdesc": "Assetto Corsa предоставляет игрокам уникальный опыт вождения благодаря детализированной физике и реалистичному поведению автомобилей. Настройте свои машины, участвуйте в гонках и испытаниях на различных трассах по всему миру.",
+        "price": "59.9",
+        "genre": "Гонки",
+        "info": {
+            "date": "19/12/2014",
+            "rating": "90",
+            "developer": "Kunos Simulazioni",
+            "publisher": "505 Games"
+        },
+        "req": {
+            "min": {
+                "os": "Windows 7 SP1",
+                "cpu": "Intel Core 2 Duo 2.4 GHz или аналогичный",
+                "ram": "4 ГБ",
+                "gpu": "NVIDIA GeForce GTX 460 или аналогичный",
+                "space": "15 ГБ"
+            },
+            "rec": {
+                "os": "Windows 10",
+                "cpu": "Intel Core i5-3570 или аналогичный",
+                "ram": "8 ГБ",
+                "gpu": "NVIDIA GeForce GTX 780 или аналогичный",
+                "space": "15 ГБ"
+            }
+        },
+        "key": "GAME-2014-AC-KEY1"
+    },
+    {
+        "images": {
             "smallimg": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/210970/header.jpg?t=1720810823",
 
             "libimg": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/210970/library_600x900.jpg?t=1729702412",
@@ -143,7 +227,7 @@
         "title": "The Witness",
         "desc": "Вы просыпаетесь в одиночестве на острове, полном сложных и удивительных загадок. ",
         "bigdesc": "Вы просыпаетесь в одиночестве на острове, полном сложных и удивительных загадок. Вы забыли, кто вы и как попали на остров, поэтому остается только одно: изучить местность — вдруг здесь есть что-нибудь, что поможет вам вернуть память и отыскать дорогу домой. The Witness — игра для одного пользователя, разнообразный открытый мир с более чем пятью сотнями загадок. Игра исходит из того, что с ней взаимодействует умный человек, время которого ценно. Ни одна загадка не служит просто для усложнения; каждая несет мысль. Вся игра насыщена смыслом. ",
-        "price": "38",
+        "price": "38.5",
         "genre": "Головоломки",
         "info": {
             "date": "26/01/2016",
@@ -169,5 +253,169 @@
         },
         "key": "GAME-2024-ACTV-KEY1"
 
+    },
+    {
+        "images": {
+            "smallimg": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1114150/header.jpg?t=1731076952",
+            "libimg": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1114150/library_600x900.jpg?t=1731076952",
+            "media": [
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1114150/ss_5138b3aae3d3d90cb2d71710bc24ddac8376e8a0.600x338.jpg?t=1731076952",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1114150/ss_49ee0fafff2741b959f67f4942d8b3d924f321b9.600x338.jpg?t=1731076952",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1114150/ss_cc648ec81eb8aba77271576b155a46cb71eb51b6.600x338.jpg?t=1731076952",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1114150/ss_aeca664e5f2ca98825effbdeb2fc8e7b54309f7b.600x338.jpg?t=1731076952",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1114150/ss_d7f45d7688a5e240387db0b2364fa8776d9281fe.600x338.jpg?t=1731076952"
+            ]
+        },
+        "title": "CarX Street",
+        "desc": "CarX Street — это захватывающая гоночная игра с открытым миром, где вы можете настраивать свои автомобили и участвовать в уличных гонках.",
+        "bigdesc": "CarX Street предлагает игрокам уникальный опыт уличных гонок с реалистичной физикой и обширной кастомизацией автомобилей. Исследуйте открытый мир, участвуйте в гонках и стройте свою гоночную карьеру.",
+        "price": "29",
+        "genre": "Гонки",
+        "info": {
+            "date": "25/05/2023",
+            "rating": "85",
+            "developer": "CarX Technologies",
+            "publisher": "CarX Technologies"
+        },
+        "req": {
+            "min": {
+                "os": "Windows 10",
+                "cpu": "Intel Core i3-2100 или аналогичный",
+                "ram": "6 ГБ",
+                "gpu": "NVIDIA GeForce GTX 660 или аналогичный",
+                "space": "10 ГБ"
+            },
+            "rec": {
+                "os": "Windows 10",
+                "cpu": "Intel Core i5-2500 или аналогичный",
+                "ram": "8 ГБ",
+                "gpu": "NVIDIA GeForce GTX 970 или аналогичный",
+                "space": "10 ГБ"
+            }
+        },
+        "key": "GAME-2023-CX-KEY1"
+    },
+    {
+        "images": {
+            "smallimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg?t=1651570301",
+            "libimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/library_600x900.jpg?t=1651570301",
+            "media": [
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/ss_6be87726df49a188a6d4bb9d712191b5547e8c9d.600x338.jpg?t=1732533158",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/ss_6757e9de570afd0e5a118c8519a7ddef4a409221.600x338.jpg?t=1732533158",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/ss_4488cb162bbb0e0d2e6c17be612035bb6349bcca.600x338.jpg?t=1732533158",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/ss_fab213cdd1f3d8699087b92b72057a96ad868726.600x338.jpg?t=1732533158",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/ss_677940d4d4bd5f3d7bc2cca36f73785a98f2298c.600x338.jpg?t=1732533158"
+            ]
+        },
+        "title": "Apex Legends",
+        "desc": "Apex Legends — это бесплатная королевская битва, где команды из трех игроков сражаются за победу на огромной карте, используя уникальных персонажей с особыми способностями.",
+        "bigdesc": "Apex Legends предлагает захватывающий игровой процесс с акцентом на командную работу и стратегию. Игроки могут выбирать из различных легенд, каждая из которых имеет уникальные способности, и должны работать вместе, чтобы одержать победу в динамичных сражениях.",
+        "price": "10",
+        "genre": "Шутеры",
+        "info": {
+            "date": "04/02/2019",
+            "rating": "89",
+            "developer": "Respawn Entertainment",
+            "publisher": "Electronic Arts"
+        },
+        "req": {
+            "min": {
+                "os": "Windows 7 64-bit",
+                "cpu": "Intel Core i3-6300 3.8GHz или AMD FX-4350 4.2GHz",
+                "ram": "6 ГБ",
+                "gpu": "NVIDIA GeForce GT 640 или AMD Radeon HD 7730",
+                "space": "22 ГБ"
+            },
+            "rec": {
+                "os": "Windows 7 64-bit",
+                "cpu": "Intel i5 3570K или AMD Ryzen 5 1400",
+                "ram": "8 ГБ",
+                "gpu": "NVIDIA GeForce GTX 970 или AMD Radeon R9 290",
+                "space": "22 ГБ"
+            }
+        },
+        "key": "GAME-2019-APEX-KEY1"
+    },
+    {
+        "images": {
+            "smallimg": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/938560/header.jpg?t=1732203724",
+            "libimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/938560/library_600x900.jpg?t=1732203724",
+            "media": [
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/938560/ss_d055b5b20898e004cd97dfd7e768f802d3b2bc9e.600x338.jpg?t=1732203724",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/938560/ss_e5f1edbeb1fde196904b62e3cbb8e3b09918bc78.600x338.jpg?t=1732203724",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/938560/ss_f01585973dbb5d02d07a19e31f8b50c4a6c48e25.600x338.jpg?t=1732203724",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/938560/ss_83fffac8a34f526b8efb7c131f13f5e56801ff33.600x338.jpg?t=1732203724",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/938560/ss_a61fd13127fe5a1c30b24831b319710cda2453e4.600x338.jpg?t=1732203724"
+            ]
+        },
+        "title": "INMOST",
+        "desc": "INMOST — это атмосферная платформер-головоломка, которая рассказывает трогательную историю о трех персонажах, каждый из которых сталкивается с собственными страхами и тайнами.",
+        "bigdesc": "В INMOST игроки исследуют мрачный и красивый мир, решая головоломки и сражаясь с врагами. Игра сочетает в себе элементы платформера и приключенческой игры, предлагая глубокий сюжет и уникальный стиль визуализации.",
+        "price": "14",
+        "genre": "Инди-игры",
+        "info": {
+            "date": "21/10/2020",
+            "rating": "85",
+            "developer": "Lunark Studio",
+            "publisher": "Lunark Studio"
+        },
+        "req": {
+            "min": {
+                "os": "Windows 7",
+                "cpu": "Intel Core 2 Duo 2.0 GHz",
+                "ram": "4 ГБ",
+                "gpu": "NVIDIA GeForce 7600 или аналогичный",
+                "space": "1 ГБ"
+            },
+            "rec": {
+                "os": "Windows 10",
+                "cpu": "Intel Core i5 или аналогичный",
+                "ram": "8 ГБ",
+                "gpu": "NVIDIA GeForce GTX 660 или аналогичный",
+                "space": "1 ГБ"
+            }
+        },
+        "key": "GAME-2020-INMOST-KEY1"
+    },
+    {
+        "images": {
+            "smallimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/header.jpg?t=1651570301",
+            "libimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/library_600x900.jpg?t=1651570301",
+            "media": [
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/ss_88e209a90c2039fa76bca6fa08c641365be38d50.600x338.jpg?t=1733260906",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/ss_e8f0cbd5efdba352e89c4cfcee3fe991a1e1be8a.600x338.jpg?t=1733260906",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/ss_2221af260c64362fdc835a9dca65f6f1d1192b25.600x338.jpg?t=1733260906",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/ss_3fdd04a5418293864bf82d33c75f833121e63804.600x338.jpg?t=1733260906",
+                "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/ss_90f8a99d0d1454bc77f46542f00f9ae5043c4268.600x338.jpg?t=1733260906"
+            ]
+        },
+        "title": "Stray",
+        "desc": "Stray — это приключенческая игра, в которой игроки берут на себя роль кота, исследующего мрачный киберпанковый город и решающего головоломки.",
+        "bigdesc": "В Stray игроки отправляются в путешествие по загадочному городу, населенному роботами. Игра сочетает в себе платформенные элементы и исследование, позволяя игрокам взаимодействовать с окружающим миром и раскрывать тайны, которые скрывает этот уникальный мир.",
+        "price": "29",
+        "genre": "Головоломки",
+        "info": {
+            "date": "19/07/2022",
+            "rating": "90",
+            "developer": "BlueTwelve Studio",
+            "publisher": "Annapurna Interactive"
+        },
+        "req": {
+            "min": {
+                "os": "Windows 10",
+                "cpu": "Intel Core i5-2500K или аналогичный",
+                "ram": "8 ГБ",
+                "gpu": "NVIDIA GeForce GTX 780 или аналогичный",
+                "space": "10 ГБ"
+            },
+            "rec": {
+                "os": "Windows 10",
+                "cpu": "Intel Core i7-4700 или аналогичный",
+                "ram": "16 ГБ",
+                "gpu": "NVIDIA GeForce GTX 1060 или аналогичный",
+                "space": "10 ГБ"
+            }
+        },
+        "key": "GAME-2022-STRAY-KEY1"
     }
 ]
